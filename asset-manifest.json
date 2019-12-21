@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/react-blog-app/static/css/main.2782b518.chunk.css",
-    "main.js": "/react-blog-app/static/js/main.cf6ad830.chunk.js",
-    "main.js.map": "/react-blog-app/static/js/main.cf6ad830.chunk.js.map",
-    "runtime-main.js": "/react-blog-app/static/js/runtime-main.7583c39d.js",
-    "runtime-main.js.map": "/react-blog-app/static/js/runtime-main.7583c39d.js.map",
-    "static/css/2.764ccc25.chunk.css": "/react-blog-app/static/css/2.764ccc25.chunk.css",
-    "static/js/2.6f23c2e9.chunk.js": "/react-blog-app/static/js/2.6f23c2e9.chunk.js",
-    "static/js/2.6f23c2e9.chunk.js.map": "/react-blog-app/static/js/2.6f23c2e9.chunk.js.map",
-    "index.html": "/react-blog-app/index.html",
-    "precache-manifest.33d7453ec3efe63e91369177940ab24e.js": "/react-blog-app/precache-manifest.33d7453ec3efe63e91369177940ab24e.js",
-    "service-worker.js": "/react-blog-app/service-worker.js",
-    "static/css/2.764ccc25.chunk.css.map": "/react-blog-app/static/css/2.764ccc25.chunk.css.map",
-    "static/css/main.2782b518.chunk.css.map": "/react-blog-app/static/css/main.2782b518.chunk.css.map",
-    "static/js/2.6f23c2e9.chunk.js.LICENSE": "/react-blog-app/static/js/2.6f23c2e9.chunk.js.LICENSE"
+    "main.css": "//tierk.github.io/react-blog-app/static/css/main.2782b518.chunk.css",
+    "main.js": "//tierk.github.io/react-blog-app/static/js/main.2c327b9d.chunk.js",
+    "main.js.map": "//tierk.github.io/react-blog-app/static/js/main.2c327b9d.chunk.js.map",
+    "runtime-main.js": "//tierk.github.io/react-blog-app/static/js/runtime-main.b8f8afbf.js",
+    "runtime-main.js.map": "//tierk.github.io/react-blog-app/static/js/runtime-main.b8f8afbf.js.map",
+    "static/css/2.764ccc25.chunk.css": "//tierk.github.io/react-blog-app/static/css/2.764ccc25.chunk.css",
+    "static/js/2.6f23c2e9.chunk.js": "//tierk.github.io/react-blog-app/static/js/2.6f23c2e9.chunk.js",
+    "static/js/2.6f23c2e9.chunk.js.map": "//tierk.github.io/react-blog-app/static/js/2.6f23c2e9.chunk.js.map",
+    "index.html": "//tierk.github.io/react-blog-app/index.html",
+    "precache-manifest.740078644d45ebbb0e3019303d2eb886.js": "//tierk.github.io/react-blog-app/precache-manifest.740078644d45ebbb0e3019303d2eb886.js",
+    "service-worker.js": "//tierk.github.io/react-blog-app/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "//tierk.github.io/react-blog-app/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.2782b518.chunk.css.map": "//tierk.github.io/react-blog-app/static/css/main.2782b518.chunk.css.map",
+    "static/js/2.6f23c2e9.chunk.js.LICENSE": "//tierk.github.io/react-blog-app/static/js/2.6f23c2e9.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7583c39d.js",
+    "static/js/runtime-main.b8f8afbf.js",
     "static/css/2.764ccc25.chunk.css",
     "static/js/2.6f23c2e9.chunk.js",
     "static/css/main.2782b518.chunk.css",
-    "static/js/main.cf6ad830.chunk.js"
+    "static/js/main.2c327b9d.chunk.js"
   ]
 }
