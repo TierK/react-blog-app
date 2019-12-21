@@ -1,5 +1,6 @@
-import React, { Component } from 'react'
-import MainHeader from './MainHeader'
+import React, { Component } from 'react';
+import MainHeader from './MainHeader';
+import './Main.css';
 
 export default class Main extends Component {
     render() {

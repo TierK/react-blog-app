@@ -1,0 +1,10 @@
+.LeftSideBar{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+.LeftSideBar a{
+    padding:  .5rem 0;
+}

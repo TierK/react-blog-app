@@ -36,6 +36,10 @@
   
 }
 
+.blog-wrapper-content{
+  background-color: rgb(234, 221, 255);
+}
+
 .MainHeader img{
   height: inherit;
   width: 100%;
@@ -58,3 +62,29 @@
 .Footer{
   grid-area: f;
 }
+
+ul, li, a {list-style-type: none;}
+
+li {padding-left: 2em; text-indent: -2em;}
+
+a:link    {
+  /* Applies to all unvisited links */
+  text-decoration:  none;
+  color:            rgb(25, 119, 241);
+  } 
+a:visited {
+  /* Applies to all visited links */
+  text-decoration:  none;
+
+  } 
+a:hover   {
+  /* Applies to links under the pointer */
+  text-decoration:  none;
+  background-color: rgba(86, 90, 92, 0.959);
+  color:            rgb(161, 193, 235);
+  } 
+a:active  {
+  /* Applies to activated links */
+  text-decoration:  none;
+  color:            rgba(225, 255, 56, 0.877);
+  } 
