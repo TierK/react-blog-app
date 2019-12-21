@@ -1,22 +1,60 @@
-.App {
-  text-align: center;
+
+.blog-wrapper{
+  display: grid;
+  grid-template-areas: 
+    "h h h"
+    "l m r"
+    "f f f";
+
+  grid-gap: 9px;
+  grid-template-rows: 14vh 74vh 9vh;
+  grid-template-columns: 14% 69% 14%;
+  background-color: rgb(238, 245, 253);
+ 
 }
 
-.App-logo {
-  height: 40vmin;
+.Header,
+.LeftSideBar,
+.Main,
+.RightSideBar,
+.Footer{
+  background-color: rgb(246, 255, 255);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+.Header{
+  grid-area: h;
 }
 
-.App-link {
-  color: #09d3ac;
+.Header img{
+  height: 3em;
+  margin: 1em;
+}
+
+.MainHeader{
+  height: 10em;
+  
+}
+
+.MainHeader img{
+  height: inherit;
+  width: 100%;
+  margin-left: 6px;
+  padding: 0;
+}
+
+.LeftSideBar{
+  grid-area: l;
+}
+
+.Main{
+  grid-area: m;
+}
+
+.RightSideBar{
+  grid-area: r;
+}
+
+.Footer{
+  grid-area: f;
 }
