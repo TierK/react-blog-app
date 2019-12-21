@@ -4,7 +4,7 @@ export default class Feeds extends Component {
     render() {
         return (
             <div>
-                Feeds
+                Feeds TODO
             </div>
         )
     }

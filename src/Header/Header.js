@@ -6,6 +6,7 @@ export default class Header extends Component {
     return (
       <div className="Header">
         <img src="https://i-love-png.com/images/blog-logo_14551.png"/>
+        <div>TODO</div>
       </div>
     )
   }

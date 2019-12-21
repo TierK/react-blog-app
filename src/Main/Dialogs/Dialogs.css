@@ -1,0 +1,28 @@
+.Dialogs{
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.Dialogs .dialog-cards{
+    padding: 2rem;
+    border-right: 1px solid #e6ecf5;
+    height: 100%;
+}
+
+.Dialogs .dialog-cards .card{
+    padding: .3rem;
+    border-bottom: 1px solid #e6ecf5;
+    width: 100%;
+}
+
+.Dialogs .dialog-cards .active{
+    color: #ffffff;
+    background-color: #27282e;
+}
+
+.Dialogs .dialog-messages{
+    padding: 2rem;
+    border-bottom: 1px solid #e6ecf5;
+}
+
+.Dialogs .dialog-messages .message{}
